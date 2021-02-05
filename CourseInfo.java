@@ -15,9 +15,9 @@ public class CourseInfo{
      
       // print course description
       System.out.println ( "This course provides an introduction to Java and " ) ;
-      System.out.println ( "object-orientd programming." );
+      System.out.println ( "object-oriented programming." );
    
       // print more course description
-      System.out.println("the cousre also intoduces the basics of software development.");
+      System.out.println("the course also introduces the basics of software development.");
    }
 }
