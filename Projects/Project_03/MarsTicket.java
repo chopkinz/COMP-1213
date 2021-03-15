@@ -12,14 +12,14 @@ import java.util.Random;
 
 public class MarsTicket {
 
-/**
+ /**
  * Uses the entered data (ticket) to return the date of
  * takeoff, the time, the seat number,
  * the price (incuding the discount if available),
  * and a random prize number.
  *
  * @param args Command line arguments (not used).
-*/
+ */
 
    public static void main(String[] args) {
    
