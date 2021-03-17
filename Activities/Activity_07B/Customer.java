@@ -11,7 +11,7 @@ public class Customer implements Comparable<Customer> {
    private String location;
    private double balance;  
       
-    // methods //
+        // methods //
     /**
     * customer constructor.
     * @param nameIn input for name
