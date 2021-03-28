@@ -12,15 +12,17 @@ s#i0
 s#k0
 s#j0
 s#l0
-!48;g
-%\011Tetrahedron.java
-%\011TetrahedronList.java
-!48;f
-%\011Tetrahedron.java
-%\011TetrahedronList.java
-!56;l
-%\011TetrahedronListTest.java
-%\011TetrahedronTest.java
-!261;t
-jgrJUnit0xr	%\011TetrahedronListTest.java	1616788824997:P%\011TetrahedronList.java	%\011TetrahedronList.java	1616788824997:P%\011TetrahedronListTest.java	
-jgrCheckstyle0xr	%\011TetrahedronListTest.java	1616706020523:P	%\011TetrahedronList.java	1616706026973:P	
+!143;g
+%\011InventoryItem.java
+%\011InventoryApp.java
+%\011OnlineBook.java
+%\011OnlineTextItem.java
+%\011OnlineArticle.java
+%\011ElectronicsItem.java
+!143;f
+%\011InventoryItem.java
+%\011InventoryApp.java
+%\011OnlineBook.java
+%\011OnlineTextItem.java
+%\011OnlineArticle.java
+%\011ElectronicsItem.java
