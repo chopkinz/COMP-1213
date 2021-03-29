@@ -14,12 +14,12 @@ public class InventoryItem {
    /**
    * constructor.
    * 
-   * @param takes in the name. 
-   * @param takes in the price. 
+   * @param nameIn takes in the name. 
+   * @param priceIn takes in the price. 
    */
-   public InventoryItem(String nameIn, double pricein) {
+   public InventoryItem(String nameIn, double priceIn) {
       name = nameIn;
-      price = pricein;
+      price = priceIn;
    }
          
       // methods //
