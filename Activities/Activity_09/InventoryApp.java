@@ -18,7 +18,4 @@ public class InventoryApp {
       OnlineBook item4 = new OnlineBook("Java for Noobs",  13.37);
       item4.setAuthor("L.G. Jones"); 
    }
-
-
-
 }
